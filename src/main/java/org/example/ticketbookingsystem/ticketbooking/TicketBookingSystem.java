@@ -1,4 +1,4 @@
-package org.example.ticketbookingsystem;
+package org.example.ticketbookingsystem.ticketbooking;
 
 /**
  * TicketBookingSystem is the core class that manages ticket availability.
